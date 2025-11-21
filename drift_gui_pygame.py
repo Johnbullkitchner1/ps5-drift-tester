@@ -20,7 +20,7 @@ DEADZONE = 0.06   # default deadzone for drift detection
 STICK_RADIUS = 12
 
 # Approximate positions for overlay highlights relative to image size (fractions: (x_frac, y_frac))
-# You may tweak these if your controller image differs
+
 DEFAULT_POS = {
     "left_stick": (0.30, 0.58),
     "right_stick": (0.70, 0.58),
