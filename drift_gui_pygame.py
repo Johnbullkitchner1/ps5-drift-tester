@@ -13,7 +13,7 @@ except Exception:
     DUALSENSE_AVAILABLE = False
 
 # --- Config ---
-IMG_FILENAME = "controller_top.png"   # put your controller image here
+IMG_FILENAME = "controller_top.png"   
 WINDOW_WIDTH = 1000
 WINDOW_HEIGHT = 480
 DEADZONE = 0.06   # default deadzone for drift detection
